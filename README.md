@@ -8,10 +8,12 @@ This serves to showcase my skills in Python, Excel, SQL and Tableau from each st
 
 ## Education
 
-Master of Science in Data Analytics 
+Master of Science in Data Analytics (MSDA)
+
 Western Governors University, Utah – Graduation: Mar 2025
 
 Bachelor of Medicine and Bachelor of Surgery (MBBS) 	
+
 Hassan Institute of Medical Sciences, India – Graduation: May 2023
 
 ## Skills
