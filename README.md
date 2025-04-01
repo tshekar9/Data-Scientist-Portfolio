@@ -7,7 +7,7 @@ This serves to showcase my skills in Python and its most commonly used open sour
 ### LinkedIn: www.linkedin.com/in/tej-shekar-64a02a35a 
 
 ## Education
-----------------
+
 #### Master of Science in Data Analytics (MSDA)
 *Western Governors University, Utah* – Graduation: *Mar 2025*
 
@@ -15,14 +15,14 @@ This serves to showcase my skills in Python and its most commonly used open sour
 *Hassan Institute of Medical Sciences, India* – Graduation: *May 2023*
 
 ## Skills
------------------
+
 Programming Languages: Python (pandas, NumPy, Matplotlib, seaborn, statsmodels), SQL (MySQL, PostgreSQL
 Data Analysis Tools: Tableau, Excel
 Statistical Analysis: Hypothesis Testing, Regression Analysis
 
 
-### Experience
------------------
+## Experience
+
 Intern Doctor 
 Hassan Institute of Medical Sciences, India - April 2022 to April 2023
 -	Experience maintaining and updating patient EHR. 
@@ -35,8 +35,8 @@ Hassan Institute of Medical Sciences, India – July 2022 to December 2022
 -	Collaborated with other doctors in the field of preventive and social medicine to design a research study for palliative care patients. 
 -	Analyzed data from past studies conducted worldwide to develop standard procedures, questionnaires and protocols.
 
-### Projects
-------------------
+## Projects
+
 Regression Analysis
 
 Time Series Forecasting of Gold Futures with ARIMA: 
