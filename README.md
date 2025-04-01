@@ -21,8 +21,8 @@ Data Analysis Tools: Tableau, Excel
 Statistical Analysis: Hypothesis Testing, Regression Analysis
 
 ## Certificates
---------------------
-	Google Data Analytics Professional Certificate
+
+Google Data Analytics Professional Certificate
 
 ## Projects
 
@@ -36,13 +36,13 @@ Tableau Dashboard:
 
 ## Experience
 
-Intern Doctor 
+#### Intern Doctor 
 Hassan Institute of Medical Sciences, India - April 2022 to April 2023
 -	Experience maintaining and updating patient EHR. 
 -	Analyzed patient histories and clinical examinations algorithmically to form differential diagnoses in a fast-paced environment 
 -	Worked with doctors from various specialties to formulate the best treatment plans 
 
-Undergraduate Researcher 
+#### Undergraduate Researcher 
 Hassan Institute of Medical Sciences, India – July 2022 to December 2022
 -	Presented research proposals to institutional research and ethics committees to introduce a new palliative care initiative in rural areas. 
 -	Collaborated with other doctors in the field of preventive and social medicine to design a research study for palliative care patients. 
