@@ -20,6 +20,19 @@ Programming Languages: Python (pandas, NumPy, Matplotlib, seaborn, statsmodels),
 Data Analysis Tools: Tableau, Excel
 Statistical Analysis: Hypothesis Testing, Regression Analysis
 
+## Certificates
+--------------------
+	Google Data Analytics Professional Certificate
+
+## Projects
+
+Regression Analysis
+
+Time Series Forecasting of Gold Futures with ARIMA: 
+
+Neural Networks:
+
+Tableau Dashboard: 
 
 ## Experience
 
@@ -35,19 +48,9 @@ Hassan Institute of Medical Sciences, India – July 2022 to December 2022
 -	Collaborated with other doctors in the field of preventive and social medicine to design a research study for palliative care patients. 
 -	Analyzed data from past studies conducted worldwide to develop standard procedures, questionnaires and protocols.
 
-## Projects
 
-Regression Analysis
 
-Time Series Forecasting of Gold Futures with ARIMA: 
 
-Neural Networks:
-
-Tableau Dashboard: 
-
-### Certificates
---------------------
-1.	Google Data Analytics Professional Certificate
 
 
 
