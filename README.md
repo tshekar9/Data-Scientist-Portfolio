@@ -1,6 +1,6 @@
 # Dr. Tej Shekar - Data Analyst Portfolio
 This portfolio includes a collection of personal projects and projects from my Master's in Data Analytics from Western Governors University.  
-This serves to showcase my skills in Python, Excel, SQL and Tableau from each stage of the data analytics lifecycle. 
+This serves to showcase my skills in Python and its most commonly used open source data libraries, as well as SQL, Tableau and Excel. 
 
 ### Email: tejshekar9@gmail.com
 
