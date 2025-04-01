@@ -4,12 +4,12 @@ This serves to showcase my skills in Python, Excel, SQL and Tableau from each st
 
 ### Email: tejshekar9@gmail.com
 
-### LinkedIn: 
+### LinkedIn: www.linkedin.com/in/tej-shekar-64a02a35a 
 
 ## Education
 
 Master of Science in Data Analytics 
-Western Governors University, Utah – Graduation: Exp. Mar 2025
+Western Governors University, Utah – Graduation: Mar 2025
 
 Bachelor of Medicine and Bachelor of Surgery (MBBS) 	
 Hassan Institute of Medical Sciences, India – Graduation: May 2023
@@ -25,6 +25,9 @@ Statistical Analysis: Hypothesis Testing, Regression Analysis
 
 Intern Doctor 
 Hassan Institute of Medical Sciences, India - April 2022 to April 2023
+-	Experience maintaining and updating patient EHR. 
+-	Analyzed patient histories and clinical examinations algorithmically to form differential diagnoses in a fast-paced environment 
+-	Worked with doctors from various specialties to formulate the best treatment plans 
 
 Undergraduate Researcher 
 Hassan Institute of Medical Sciences, India – July 2022 to December 2022
@@ -34,12 +37,17 @@ Hassan Institute of Medical Sciences, India – July 2022 to December 2022
 
 ### Projects
 
-Tableau Dashboard: 
-
 Regression Analysis
 
-Time Series Forecasting: 
+Time Series Forecasting of Gold Futures with ARIMA: 
 
 Neural Networks:
+
+Tableau Dashboard: 
+
+### Certificates
+
+1.	Google Data Analytics Professional Certificate
+
 
 
