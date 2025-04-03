@@ -54,7 +54,8 @@ On comparing the model forecast with the actual test data set, while the first h
 The criterion for determining the model efficacy was MAPE. It is the error expressed as a percentage of the actual values and is scale-independent. In general, a lower MAPE indicates a better model and a MAPE between 10%-20% is good (Juan et al, 2013). 
 The MAPE calculated for the final ARIMA model was 14.68%. Since this is <20%, we can reject the null hypothesis and accept the alternate hypothesis that it is possible to build an ARIMA model that can effectively forecast gold prices with MAPE <20%.
 
-#### Model Forecasting: The ARIMA model forecast predicted the daily closing price of gold to be about $2,641 per ounce for the next 3 months (Jan-Mar 2025). 
+#### Model Forecasting: 
+The ARIMA model forecast predicted the daily closing price of gold to be about $2,641 per ounce for the next 3 months (Jan-Mar 2025). 
  
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/8f0eea78-5a4e-46fc-a4c0-14d8248202e6" />
 
