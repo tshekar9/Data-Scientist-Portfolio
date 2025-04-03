@@ -24,13 +24,14 @@ This collection also emphasizes my proficiency in programming languages and tool
 
 ## Projects
 
-Time Series Forecasting of Gold Futures with ARIMA: 
+1. Time Series Forecasting of Gold Futures Prices with ARIMA 
 
-Sentiment Analysis of Customer Review Data Using NLP and RNN: 
+2. Sentiment Analysis of Customer Review Data Using Natural Language Processing and Recurrent Neural Networks
 
-Regression Analysis
+3. Market Basket Analysis of Drug Prescription Data
 
-Tableau Dashboard: 
+4. Analysis of Hospital Admissions Data Using k-Means Clustering 
+
 
 ## Work Experience
 
