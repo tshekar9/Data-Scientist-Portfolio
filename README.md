@@ -1,6 +1,6 @@
-# Dr. Tej Shekar - Data Analyst Portfolio
+# Tej Shekar - Portfolio
 This portfolio includes a collection of personal projects and projects from my Master's in Data Analytics from Western Governors University.  
-This serves to showcase my skills in Python and its most commonly used open source data libraries, as well as SQL, Tableau and Excel. 
+This serves to showcase my skills in Python, as well as SQL, Tableau and Excel. 
 
 ### Email: tejshekar9@gmail.com
 
@@ -16,25 +16,21 @@ This serves to showcase my skills in Python and its most commonly used open sour
 
 ## Skills
 
-Programming Languages: Python (pandas, NumPy, Matplotlib, seaborn, statsmodels), SQL (MySQL, PostgreSQL
+Programming Languages: Python (pandas, NumPy, Matplotlib, seaborn, statsmodels), SQL 
+Statistical Analysis: Hypothesis Testing, Regression Analysis, Time-Series Modeling, Neural Networks, NLP
 Data Analysis Tools: Tableau, Excel
-Statistical Analysis: Hypothesis Testing, Regression Analysis
-
-## Certificates
-
-Google Data Analytics Professional Certificate
 
 ## Projects
-
-Regression Analysis
 
 Time Series Forecasting of Gold Futures with ARIMA: 
 
 Neural Networks:
 
+Regression Analysis
+
 Tableau Dashboard: 
 
-## Experience
+## Work Experience
 
 #### Intern Doctor 
 Hassan Institute of Medical Sciences, India - April 2022 to April 2023
