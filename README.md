@@ -4,9 +4,8 @@ I'm Tej Shekar, a passionate data scientist with a Master's in Data Analytics. T
 
 - Data Exploration and Visualization
 - Time-Series Modeling
-- Natural Language Processing (NLP)
-- Neural Networks
-- Regression Analysis and more
+- Natural Language Processing (NLP) and Neural Networks
+- Regression Analysis
 
 This collection also emphasizes my proficiency in programming languages and tools such as Python, SQL, Tableau, Excel. 
 
