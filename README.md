@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 I'm Tej Shekar, a passionate data scientist with a Master's in Data Analytics. This portfolio highlights a selection of my personal and academic projects, demonstrating my skills and expertise in Data Exploration and Visualization, Time-Series Modeling, Natural Language Processing (NLP), Neural Networks and Supervised and Unsupervised Machine Learning Models. 
 This collection also emphasizes my proficiency in programming languages and tools such as Python, SQL, Tableau, Excel. 
