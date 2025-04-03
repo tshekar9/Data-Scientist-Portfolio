@@ -1,6 +1,14 @@
-# Tej Shekar - Portfolio
-This portfolio includes a collection of personal projects and projects from my Master's in Data Analytics from Western Governors University.  
-This serves to showcase my skills in Python, as well as SQL, Tableau and Excel. 
+# Introduction
+
+I'm Tej Shekar, a passionate data scientist with a Master's in Data Analytics. This portfolio highlights a selection of my personal and academic projects, demonstrating my skills and expertise in:
+
+- Data Exploration and Visualization
+- Time-Series Modeling
+- Natural Language Processing (NLP)
+- Neural Networks
+- Regression Analysis and more
+
+This collection also emphasizes my proficiency in programming languages and tools such as Python, SQL, Tableau, Excel. 
 
 ### Email: tejshekar9@gmail.com
 
@@ -16,7 +24,7 @@ This serves to showcase my skills in Python, as well as SQL, Tableau and Excel.
 
 ## Skills
 
-Programming Languages: Python (pandas, NumPy, Matplotlib, seaborn, statsmodels), SQL 
+Programming Languages: Python (pandas, NumPy, Matplotlib, seaborn, statsmodels, TensorFlow), SQL 
 Statistical Analysis: Hypothesis Testing, Regression Analysis, Time-Series Modeling, Neural Networks, NLP
 Data Analysis Tools: Tableau, Excel
 
