@@ -24,15 +24,17 @@ This collection also emphasizes my proficiency in programming languages and tool
 
 ## Skills
 
-Programming Languages: Python (pandas, NumPy, Matplotlib, seaborn, statsmodels, TensorFlow), SQL 
+Programming Languages: Python (pandas, NumPy, Matplotlib, Seaborn, Statsmodels, TensorFlow), SQL 
+
 Statistical Analysis: Hypothesis Testing, Regression Analysis, Time-Series Modeling, Neural Networks, NLP
+
 Data Analysis Tools: Tableau, Excel
 
 ## Projects
 
 Time Series Forecasting of Gold Futures with ARIMA: 
 
-Neural Networks:
+Sentiment Analysis of Customer Review Data Using NLP and RNN: 
 
 Regression Analysis
 
