@@ -21,7 +21,7 @@ This means that the data is present in a sequence one after the other, like word
 
 This neural network functions as a binary classifer for sentiment analysis of customer reviews. It can be used to categorise customer feedback as either positive (1) or negative(0).
 The input layer of the network is an embedding layer that takes sequenced text as input and feeds it forward to the first hidden layer. The two hidden layers that come next perform computations on the data. 
-They have 100 and 50 nodes respectively with "relu" activation functions. The nodes apply weights to the inputs and the activation functions introduce non-linearity so that the network can perform more complex calculations. The next layer is a pooling layer that reduces the dimensions of the input data. It computes the average output of each feature map of the preceeding layer and reduces its dimensions to make the model ready for the last classification layer [(Habib, 2022)](#i-sources).
+They have 100 and 50 nodes respectively with "relu" activation functions. The nodes apply weights to the inputs and the activation functions introduce non-linearity so that the network can perform more complex calculations. The next layer is a pooling layer that reduces the dimensions of the input data. It computes the average output of each feature map of the preceeding layer and reduces its dimensions to make the model ready for the last classification layer.
 The last layer is the output layer with only one node. It has a sigmoid activation function that provides an output probability between 0 and 1. This determines which category the review is most likely to belong to.
 In this way, the neural netowork can take sequenced customer review data and categorise it as positive or negative.
 
