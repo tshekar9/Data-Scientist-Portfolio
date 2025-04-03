@@ -24,11 +24,10 @@ This collection also emphasizes my proficiency in programming languages and tool
 
 ## Skills
 
-Programming Languages: Python (pandas, NumPy, Matplotlib, Seaborn, Statsmodels, TensorFlow), SQL 
-
-Statistical Analysis: Hypothesis Testing, Regression Analysis, Time-Series Modeling, Neural Networks, NLP
-
-Data Analysis Tools: Tableau, Excel
+- Programming Languages & Tools:
+    Python (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, TensorFlow, Sci-Kit Learn), SQL, Excel, Tableau
+- Analytical & Data Science Techniques:
+    Hypothesis Testing, Regression Analysis, Time-Series Modeling, Neural Networks (including Deep Learning), Natural Language Processing (NLP), Data Visualization
 
 ## Projects
 
