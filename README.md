@@ -1,6 +1,6 @@
 ## Introduction
 
-I'm Tej Shekar, a passionate data scientist with a Master's in Data Analytics. This portfolio highlights a selection of my personal and academic projects, demonstrating my expertise in statistical modeling, machine learning, and data visualization.
+I'm Tej Shekar, a Data Scientist with a Master’s in Data Analytics and hands-on experience in statistical modeling and data visualization. This portfolio shows my skills in Python, SQL, machine learning and deep learning frameworks and deomstrates my ability to translate complex data into actionable insights in business settings.
 
 #### Email: tejshekar9@gmail.com
 
@@ -13,20 +13,18 @@ I'm Tej Shekar, a passionate data scientist with a Master's in Data Analytics. T
 
 ## Skills
 
-- Programming Languages & Tools:
-    Python (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, TensorFlow, Sci-Kit Learn), SQL, Excel, Tableau
-- Analytical & Data Science Techniques:
-    Data Exploration and Visualization, Hypothesis Testing, Regression Analysis, Time-Series Modeling, Supervised and Unsupervised Machine Learning Models, Neural Networks, Natural Language Processing (NLP)
+- Languages/Tools: Python (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, TensorFlow, Sci-Kit Learn), SQL
+- Techniques: Data Cleaning, EDA, Hypothesis Testing, Regression, Classification, Clustering, Time-Series Forecasting, Neural Networks, NLP
 
 ## Projects
 
-1. Time Series Forecasting of Gold Futures Prices with ARIMA 
+1. [Gold Price Forecasting with ARIMA](https://github.com/tshekar9/Data-Scientist-Portfolio/blob/main/Time-Series%20Forecasting%20of%20Gold%20Futures%20Using%20ARIMA/Project_Summary.md)
 
-2. Sentiment Analysis of Customer Review Data Using Natural Language Processing and Recurrent Neural Networks
+2. [Sentiment Analysis Using Natural Language Processing and Recurrent Neural Networks](https://github.com/tshekar9/Data-Scientist-Portfolio/blob/main/Sentiment%20Analysis%20Using%20NLP%20and%20RNN/Sentiment%20Analysis%20of%20Customer%20Review%20Data.ipynb)
 
-3. Market Basket Analysis of Drug Prescription Data
+3. [Market Basket Analysis of Drug Prescription Data](https://github.com/tshekar9/Data-Scientist-Portfolio/blob/main/Market%20Basket%20Analysis%20of%20Drug%20Prescription%20Data/%20Market%20Basket%20Analysis%20of%20Prescription%20Data%20.ipynb)
 
-4. Analysis of Hospital Admissions Data Using k-Means Clustering 
+4. [Analysis of Hospital Admissions Data Using k-Means Clustering](https://github.com/tshekar9/Data-Scientist-Portfolio/edit/main/README.md#:~:text=README.md) 
 
 
 ## Work Experience
