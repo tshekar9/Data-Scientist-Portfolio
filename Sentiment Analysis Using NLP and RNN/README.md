@@ -1,5 +1,7 @@
 ## Sentiment Analysis of Customer Review Data Using NLP and Neural Networks
 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
 #### Tejaswini Shekar
 
 ### Goal of the Analysis
