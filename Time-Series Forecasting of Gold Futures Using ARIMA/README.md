@@ -4,6 +4,11 @@
 ### Tejaswini Shekar
 MSDA, Western Governor’s University
 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 ### Problem Statement
 "Is it possible to effectively predict gold futures prices based on historical data from the past 10 years using an ARIMA model?”
 The price of gold has increased by 25% in the past year (CBS News, 2025) and does not appear to be slowing down. Geopolitical tensions worldwide have resulted in individual investors and nations buying gold to protect themselves from incurring losses. In such a time where gold is more popular than ever, it becomes relevant to explore methods of predicting variations in its price. 
