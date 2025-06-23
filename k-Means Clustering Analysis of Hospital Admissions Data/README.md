@@ -1,5 +1,7 @@
 ## Analysis of Hospital Admissions Data Using k-Means Clustering 
 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 ### Tejaswini Shekar
 ________________
 
