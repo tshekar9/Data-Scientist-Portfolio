@@ -1,6 +1,6 @@
 ## Introduction
 
-I'm Tej Shekar, a Data Scientist with a Master’s in Data Analytics and hands-on experience in statistical modeling and data visualization. This portfolio shows my skills in Python, SQL, machine learning and deep learning frameworks and deomstrates my ability to translate complex data into actionable insights in business settings.
+I'm Tej Shekar, a Data Scientist with a Master’s in Data Analytics and hands-on experience in statistical modeling and data visualization. This portfolio shows my skills in Python, SQL, machine learning and deep learning frameworks and demonstrates my ability to translate complex data into actionable insights in business settings.
 
 #### Email: tejshekar9@gmail.com
 
@@ -31,10 +31,8 @@ I'm Tej Shekar, a Data Scientist with a Master’s in Data Analytics and hands-o
 
 #### Healthcare Data Scientist 
 DS Labs, India (July 2023 - March 2024)
-- Analyzed electronic health records to identify trends and patterns, aiding in decision-making for
-diagnostic and treatment protocols.
-- Developed and maintained statistics on patient health outcomes, disease prevalence, and test results.
-Collaborated with medical professionals to deliver insights that improved patient care.
+- Analyzed electronic health records data to identify health trends and optimize diagnostic protocols.
+- Produced statistical reports on patient outcomes and disease prevalence. Collaborated with healthcare teams to improve clinical decision-making
 
 #### Undergraduate Researcher 
 Hassan Institute of Medical Sciences, India (June 2022 - April 2023)
