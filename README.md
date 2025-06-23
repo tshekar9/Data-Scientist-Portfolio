@@ -31,7 +31,7 @@ I'm Tej Shekar, a Data Scientist with a Master’s in Data Analytics and hands-o
 
 #### Healthcare Data Scientist 
 DS Labs, India (July 2023 - March 2024)
-- Analyzed patient health records to identify trends and patterns, aiding in decision-making for
+- Analyzed electronic health records to identify trends and patterns, aiding in decision-making for
 diagnostic and treatment protocols.
 - Developed and maintained statistics on patient health outcomes, disease prevalence, and test results.
 Collaborated with medical professionals to deliver insights that improved patient care.
