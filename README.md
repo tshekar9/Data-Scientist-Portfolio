@@ -1,6 +1,6 @@
 ## Introduction
 
-I'm Tej Shekar, a passionate data scientist with a Master's in Data Analytics. This portfolio highlights a selection of my personal and academic projects, demonstrating my expertise in Data Exploration, Visualization, as well as Supervised and Unsupervised Machine Learning Models. 
+I'm Tej Shekar, a passionate data scientist with a Master's in Data Analytics. This portfolio highlights a selection of my personal and academic projects, demonstrating my expertise in statistical modeling, machine learning, and data visualization.
 
 #### Email: tejshekar9@gmail.com
 
@@ -10,9 +10,6 @@ I'm Tej Shekar, a passionate data scientist with a Master's in Data Analytics. T
 
 #### Master of Science in Data Analytics (MSDA)
 *Western Governors University, Utah* – Graduation: *Mar 2025*
-
-#### Bachelor of Medicine and Bachelor of Surgery (MBBS) 	
-*Hassan Institute of Medical Sciences, India* – Graduation: *May 2023*
 
 ## Skills
 
@@ -34,17 +31,19 @@ I'm Tej Shekar, a passionate data scientist with a Master's in Data Analytics. T
 
 ## Work Experience
 
-#### Intern Doctor 
-Hassan Institute of Medical Sciences, India - April 2022 to April 2023
--	Experience maintaining and updating patient EHR. 
--	Analyzed patient histories and clinical examinations algorithmically to form differential diagnoses in a fast-paced environment 
--	Worked with doctors from various specialties to formulate the best treatment plans 
+#### Healthcare Data Scientist 
+DS Labs, India (July 2023 - March 2024)
+- Analyzed patient health records to identify trends and patterns, aiding in decision-making for
+diagnostic and treatment protocols.
+- Developed and maintained statistics on patient health outcomes, disease prevalence, and test results.
+Collaborated with medical professionals to deliver insights that improved patient care.
 
 #### Undergraduate Researcher 
-Hassan Institute of Medical Sciences, India – July 2022 to December 2022
--	Presented research proposals to institutional research and ethics committees to introduce a new palliative care initiative in rural areas. 
--	Collaborated with other doctors in the field of preventive and social medicine to design a research study for palliative care patients. 
--	Analyzed data from past studies conducted worldwide to develop standard procedures, questionnaires and protocols.
+Hassan Institute of Medical Sciences, India (June 2022 - April 2023)
+- Conducted quantitative research on palliative care in underserved populations. Applied statistical
+analysis and visualization tools to inform public health interventions.
+- Collaborated with multidisciplinary healthcare teams to translate research findings into practical
+solutions, improving patient outcomes.
 
 
 
