@@ -1,5 +1,4 @@
 ## Time Series Forecasting of Gold Futures Prices Using ARIMA
-### Capstone Executive Summary
 
 ### Tejaswini Shekar
 MSDA, Western Governor’s University
