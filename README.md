@@ -1,8 +1,8 @@
 ## Introduction
 
-👋 I'm Tej Shekar! 
+👋 I'm Tej Shekar! Welcome to my data science portfolio.
 
-I'm a Data Scientist and these are my academic projects completed while working towards a Master of Science in Data Analytics from Western Governors University, Utah. 
+This is a collection of my academic projects completed while working towards a Master of Science in Data Analytics from Western Governors University, Utah. 
 
 
 1. [Time Series Forecasting of Gold Prices Using Autoregressive and Moving Average Model (ARIMA)](https://github.com/tshekar9/Data-Scientist-Portfolio/blob/main/Time-Series%20Forecasting%20of%20Gold%20Futures%20Using%20ARIMA/Project_Summary.md)
